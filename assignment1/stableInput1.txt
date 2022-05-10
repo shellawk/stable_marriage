@@ -1,0 +1,26 @@
+4
+4
+Lizzy Ryan Blake Joe Connor
+Sarah Ryan Blake Connor Joe
+Zoey Connor Joe Ryan Blake
+Daniella Ryan Joe Connor Blake
+Ryan Lizzy Sarah Zoey Daniella
+Joe Sarah Lizzy Daniella Zoey
+Blake Sarah Daniella Zoey Lizzy
+Connor Lizzy Sarah Zoey Daniella
+Lizzy Ryan
+Sarah Blake
+Connor Zoey
+Joe Daniella
+Lizzy Blake
+Sarah Ryan
+Connor Zoey
+Joe Daniella
+Lizzy Ryan
+Sarah Blake
+Connor Daniella
+Joe Zoey
+Sarah Blake
+Lizzy Ryan
+Joe Daniella
+Connor Zoey
